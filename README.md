@@ -16,3 +16,5 @@ You can reset anytime to start over.
 <img align="center" src="images/blocks.png" alt="nothing to show"/>
 <h3>Just a sample of construction</h3>
 <img align="center" src="images/construction.png" alt="nothing to show"/>
+<h3>Show creativity</h3>
+<img align="center" src="images/minecraftlogo.png" alt="nothing to show"/>
