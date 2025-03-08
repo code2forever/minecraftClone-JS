@@ -23,7 +23,8 @@ body {
   position: fixed;
   overflow: hidden;
   overscroll-behavior-y: none;
-  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir,
+    helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
   font-size: 40px;
 }
 
@@ -42,25 +43,30 @@ body {
   position: absolute;
 }
 
-.cursor{
-  color:white;
+.cursor {
+  color: white;
 }
 
-.centered{
-  top:50%;
-  left:50%;
-  transform:translate(-50%,-50%);
+.plus-cursor {
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Black shadow */
 }
 
-.texture-selector{
+.centered {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.texture-selector {
   transform: scale(5);
 }
 
-.texture-selector img.active{
-  border:2px solid red;
+.texture-selector img.active {
+  border: 2px solid red;
 }
 
-.menu{
-  top:0px;
-  left:10px;
+.menu {
+  top: 0px;
+  left: 10px;
 }
